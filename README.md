@@ -17,7 +17,7 @@ To download the Excel dashboard, please click on the California Hospitals Excel 
 
 The dashboard includes slicers you can use to filter the data according to year, county, licensed bed size, and population density. You can find these slicers in the left-hand side of the dashboard.
 
-To use the slicers, you may select an option by simply clicking on it once. To clear that filter, click on the "Clear Filter" option corresponding to that particular slicer (or use the Alt+C shortcut). If you wish to select multiple options under a single slicer, click on the "Multi-Select" option for that slicer (or use the Alt+S) shortcut.
+To use the slicers, you may select an option by simply clicking on it once. To clear that filter, click on the "Clear Filter" option corresponding to that particular slicer (or use the Alt+C shortcut). If you wish to select multiple options under a single slicer, click on the "Multi-Select" option for that slicer (or use the Alt+S shortcut).
 
 ## Key Insights
 1. Over 75% of patients discharged from hospitals located in frontier areas (i.e., the most rural areas of the state) were over the age of 60, compared with 41% of those discharged from hospitals located in urban areas.
